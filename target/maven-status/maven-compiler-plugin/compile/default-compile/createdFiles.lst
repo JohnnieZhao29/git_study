@@ -1,0 +1,14 @@
+com\zjydemo\mallstore\service\ex\PasswordNotMatchException.class
+com\zjydemo\mallstore\entity\BaseEntity.class
+com\zjydemo\mallstore\util\JsonResult.class
+com\zjydemo\mallstore\mapper\UserMapper.class
+com\zjydemo\mallstore\entity\User.class
+com\zjydemo\mallstore\service\IUserService.class
+com\zjydemo\mallstore\service\ex\InsertException.class
+com\zjydemo\mallstore\service\ex\UserNotFoundException.class
+com\zjydemo\mallstore\service\ex\ServiceException.class
+com\zjydemo\mallstore\service\impl\UserServiceImpl.class
+com\zjydemo\mallstore\MallStoreApplication.class
+com\zjydemo\mallstore\controller\UserController.class
+com\zjydemo\mallstore\controller\BaseController.class
+com\zjydemo\mallstore\service\ex\UsernameDuplicatedException.class
